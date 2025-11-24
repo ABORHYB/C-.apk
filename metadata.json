@@ -1,0 +1,5 @@
+{
+  "name": "ACod C++ Compiler",
+  "description": "A web-based C++ compiler and runtime simulator using Gemini 2.5 Flash, featuring a VS Code-inspired dark theme and syntax highlighting.",
+  "requestFramePermissions": []
+}
